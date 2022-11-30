@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on ∑ Йθ𝝿tα</title><link>https://math.redeyes.club/posts/</link><description>Recent content in Posts on ∑ Йθ𝝿tα</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 30 Nov 2022 18:08:41 +0300</lastBuildDate><atom:link href="https://math.redeyes.club/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>TEST</title><link>https://math.redeyes.club/posts/test/</link><pubDate>Wed, 30 Nov 2022 18:08:41 +0300</pubDate><guid>https://math.redeyes.club/posts/test/</guid><description>\[\sqrt(4)\]
 $z^2$ \[\sum_{x=1}^5 y^z\]
-\[\int_a^b f(x)\]
-\( \begin{matrix} {z = re^{i\phi}z^n = (re^{i\phi})^n = \\ =r^ne^{in\phi} =\\ r^n(cosn\phi + i sin n\phi)} \end{matrix} \) \( x = \begin{cases} a &amp;\text{if } b \\ c &amp;\text{if } d \end{cases} \)
-\[x = \begin{cases} a &amp;\text{if } b \\ c &amp;\text{if } d \end{cases}\]
-\begin{smallmatrix} a &amp;amp; b c &amp;amp; d \end{smallmatrix}
-\[\begin{CD} A @a B \\ @VbVV @AAcA \\ C @= D \end{CD}\]</description></item></channel></rss>
+\[ \begin{bmatrix} {z = re^{i\phi}z^n = (re^{i\phi})^n = \\ =r^ne^{in\phi} = \\ r^n(cosn\phi + i sin n\phi)} \end{bmatrix} \]
+\[ \begin{bmatrix} a_1 &amp; a_2&amp;a_3 &amp; - a_4 &amp; - a_5&amp;-a_6 \\ b_1 &amp; b_2&amp;b_3 &amp; - b_4 &amp; - b_5&amp;-b_6 \\ c_1 &amp; c_2&amp;c_3 &amp; - c_4 &amp; - c_5&amp;-c_6 \\ \end{bmatrix} \]
+Nice nline $\sum z^2 y$ works \(Mama mia\ Кирилиц\alpha\ \pi ашет\)
+\[ \begin{CD} A @a B \\ @VbVV @AAcA \\ C @= D \end{CD} \]</description></item></channel></rss>
